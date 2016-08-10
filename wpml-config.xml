@@ -4,5 +4,5 @@
         <key name="woocommerce_cop_title" />
         <key name="woocommerce_cop_description" />
         <key name="woocommerce_cop_instructions" />
-    <admin-texts>
+    </admin-texts>
 </wpml-config>
